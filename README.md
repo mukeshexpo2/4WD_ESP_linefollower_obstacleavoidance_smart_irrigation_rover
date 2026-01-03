@@ -1,0 +1,2 @@
+# 4WD_ESP_linefollower_obstacleavoidance_smart_irrigation_rover
+ESP32 Smart 4WD Rover is an intelligent autonomous robot featuring line following with recovery, obstacle avoidance using ultrasonic sensing, precision target detection via VL53L0X, and moisture-based automatic watering. It supports Wi-Fi control, real-time monitoring, and smooth servo-based scanning for smart agriculture applications.
